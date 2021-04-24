@@ -12,6 +12,13 @@
     -webkit-font-smoothing:antialiased;
     text-decoration:none;
 }
+header
+{
+
+background-image:url("test5.jpg");
+background-repeat: no-repeat;
+  background-size:100% 100%;
+}
 .max
 {
     max-width:1300px;
@@ -66,6 +73,16 @@
     padding-right:400px;
     text-align: center; 
 }
+.bio2
+{   
+    color:rgba(27, 2, 2, 0.384);
+    font-family:Ubuntu, sans-serif;
+    margin:10px;
+    padding-left:400px;
+    padding-right:400px;
+    text-align: center; 
+}
+
 .welcome
 {  
     padding:30px;
