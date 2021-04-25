@@ -30,7 +30,7 @@ header
 .navbar
 {   
     position:fixed;
-   
+    z-index:2;
    
     width:100%;
     padding:15px 0;
@@ -53,6 +53,7 @@ header
     font-size:18px;
     font-weight:530;
     margin-left:25px;
+    
 }
 .navbar .links a:hover
 {
